@@ -1,0 +1,21 @@
+
+@media screen and (orientation:landscape) {
+  img.glass {
+    width:4vw;
+    height:4vw;
+    margin-top:-2vw;
+  }
+  img.chatimg {
+    width:4.5vw;
+    height:4.5vw;
+    margin-top:-2.25vw
+  }
+  p.chatNum {
+    width:4.5vw;
+    height:4.5vw;
+    line-height:4.5vw;
+    right: 1px;
+    top:-5px;
+  }
+}
+

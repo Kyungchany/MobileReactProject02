@@ -1,0 +1,102 @@
+[
+  {
+    "id":"001",
+    "images":"/images/productsimg01.png",
+    "name":"매트리스커버",
+    "subName":"차렵이불Q_180*220:그레이",
+    "from":"제조사/원산지 : 경찬 분당",
+    "modelNum":"모델번호 : 10801green",
+    "code":"상품코드 : 183417018",
+    "price":150000,
+    "category":"신상품",
+    "subImg":[
+      {"index":0, "img":"/images/productsimg01.png"},
+      {"index":1, "img":"/images/subImg2.png"},
+      {"index":2, "img":"/images/subImg3.png"}
+    ]
+
+  },
+
+  {
+    "id":"002",
+    "images":"/images/productsimg02.png",
+    "name":"맨체스터보조",
+    "subName":"1인용 리클라이너(기본 흔들형)",
+    "from":"제조사/원산지 : 경찬 분당",
+    "modelNum":"모델번호 : 10801green",
+    "code":"상품코드 : 183417018",
+    "price":795400,
+    "category":"신상품",
+    "subImg":[
+      {"index":0, "img":"/images/productsimg02.png"},
+      {"index":1, "img":"/images/subImg2.png"},
+      {"index":2, "img":"/images/subImg3.png"}
+    ]
+  },
+  
+  {
+    "id":"003",
+    "images":"/images/productsimg03.png",
+    "name":"매트리스커버",
+    "subName":"차렵이불Q_180*220:그레이",
+    "price":200000,
+    "from":"제조사/원산지 : LA-Z-BOY / 미국",
+    "modelNum":"모델번호 : 10801green",
+    "code":"상품코드 : 183417018",
+    "category":"추천상품",
+    "subImg":[
+      {"index":0, "img":"/images/productsimg03.png"},
+      {"index":1, "img":"/images/subImg2.png"},
+      {"index":2, "img":"/images/subImg3.png"}
+    ]
+  },
+
+  {
+    "id":"004",
+    "images":"/images/productsimg04.png",
+    "name":"그 외 이미지01",
+    "subName":"차렵이불Q_180*220:그레이",
+    "price":400000,
+    "from":"제조사/원산지 : LA-Z-BOY / 미국",
+    "modelNum":"모델번호 : 10801green",
+    "code":"상품코드 : 183417018",
+    "category":"그 외",
+    "subImg":[
+      {"index":0, "img":"/images/productsimg04.png"},
+      {"index":1, "img":"/images/subImg2.png"},
+      {"index":2, "img":"/images/subImg3.png"}
+    ]
+  },
+  {
+    "id":"005",
+    "images":"/images/productsimg05.png",
+    "name":"그 외 이미지02",
+    "subName":"차렵이불Q_180*220:그레이",
+    "price":500000,
+    "from":"제조사/원산지 : LA-Z-BOY / 미국",
+    "modelNum":"모델번호 : 10801green",
+    "code":"상품코드 : 183417018",
+    "category":"그 외",
+    "subImg":[
+      {"index":0, "img":"/images/productsimg05.png"},
+      {"index":1, "img":"/images/subImg2.png"},
+      {"index":2, "img":"/images/subImg3.png"}
+    ]
+  },
+  {
+    "id":"006",
+    "images":"/images/productsimg06.png",
+    "name":"그 외 이미지03",
+    "subName":"차렵이불Q_180*220:그레이",
+    "price":600000,
+    "from":"제조사/원산지 : LA-Z-BOY / 미국",
+    "modelNum":"모델번호 : 10801green",
+    "code":"상품코드 : 183417018",
+    "category":"그 외",
+    "subImg":[
+      {"index":0, "img":"/images/productsimg06.png"},
+      {"index":1, "img":"/images/subImg2.png"},
+      {"index":2, "img":"/images/subImg3.png"}
+    ]
+  }
+]
