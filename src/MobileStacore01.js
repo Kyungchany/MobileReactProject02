@@ -24,7 +24,23 @@ export default function MobileStacore01() {
         ]
       }
     ])
-  }
+  } else
+    
+    router = createBrowserRouter ([
+      {
+        path:'/',
+        element:<MobileRoot/>,
+        errorElement:<MobileNotFound/>,
+        children:[
+          {index:true, element:<MobileHome/>},
+          {path:'/products', element:<MobilePrducts/>},
+          {path:'/products/:productsId', element:<MobileDetail/>}
+        ]
+      }
+    ])
+
+
+
   return (
     <div>
       <RouterProvider router={router}/>
